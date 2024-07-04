@@ -1,3 +1,8 @@
+Backend Repo: https://github.com/Zhassulan1/Volumize-Back
+Deploy: http://13.49.145.207:3000/ 
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
